@@ -1,4 +1,4 @@
-/**
+/*
  * 8Spine Engine Audio Resolver Module (v1.0.0)
  * 
  * Target Endpoints:
