@@ -1,5 +1,5 @@
 /**
- * 8Spine Engine Audio Resolver Module (v1.0.7)
+ * 8Spine Engine Audio Resolver Module (v1.0.0)
  * 
  * Target Endpoints:
  * - Search:   https://search.alxhlms.workers.dev
